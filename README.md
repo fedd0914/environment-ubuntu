@@ -7,7 +7,9 @@ sudo apt update
  ```  
   
 ---
-## Instalar Node JS
+## Instalar Node JS and NPM
 ```
 sudo apt install nodejs
+sudo apt install npm
 ```
+
